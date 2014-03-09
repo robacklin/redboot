@@ -1,0 +1,23 @@
+/fclose.cxx/1.8/Thu Jan 29 17:49:53 2009//
+/feof.cxx/1.5/Thu Jan 29 17:49:53 2009//
+/fflush.cxx/1.11/Thu Jan 29 17:49:53 2009//
+/fileops.cxx/1.3/Thu Jan 29 17:49:53 2009//
+/fopen.cxx/1.11/Thu Jan 29 17:49:53 2009//
+/freopen.cxx/1.5/Thu Jan 29 17:49:53 2009//
+/fseek.cxx/1.5/Thu Jan 29 17:49:53 2009//
+/setvbuf.cxx/1.5/Thu Jan 29 17:49:53 2009//
+/snprintf.cxx/1.5/Thu Jan 29 17:49:53 2009//
+/sprintf.cxx/1.5/Thu Jan 29 17:49:53 2009//
+/sscanf.cxx/1.5/Thu Jan 29 17:49:53 2009//
+/stderr.cxx/1.5/Thu Jan 29 17:49:53 2009//
+/stdin.cxx/1.5/Thu Jan 29 17:49:53 2009//
+/stdiofiles.cxx/1.4/Thu Jan 29 17:49:53 2009//
+/stdioinlines.cxx/1.6/Thu Jan 29 17:49:53 2009//
+/stdiosupp.cxx/1.4/Thu Jan 29 17:49:53 2009//
+/stdout.cxx/1.5/Thu Jan 29 17:49:53 2009//
+/stream.cxx/1.12/Thu Jan 29 17:49:53 2009//
+/streambuf.cxx/1.4/Thu Jan 29 17:49:53 2009//
+/ungetc.cxx/1.5/Thu Jan 29 17:49:53 2009//
+/vsnprintf.cxx/1.9/Tue Feb 19 13:37:12 2013//
+/vsscanf.cxx/1.5/Thu Jan 29 17:49:53 2009//
+D
